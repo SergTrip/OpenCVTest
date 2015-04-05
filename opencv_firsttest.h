@@ -15,6 +15,7 @@ class OpenCV_FirstTest;
 class OpenCV_FirstTest : public QMainWindow
 {
     Q_OBJECT
+    // Добавленная хуйня !!!
 
 public:
     explicit OpenCV_FirstTest(QWidget *parent = 0);
